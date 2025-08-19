@@ -14,3 +14,4 @@ Ghi chú & so sánh các phương án lưu trữ mô hình open-weight dung lư�
 ## Progress Log
 - **[YYYY-MM-DD]** Init repo.
 - **[YYYY-MM-DD]** Added cost comparison notes.
+# Notes on Model Storage Strategy
